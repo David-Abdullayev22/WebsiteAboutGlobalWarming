@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="../static/css/style.css" />
+    <title>Причины глобального потепления</title>
+  </head>
+  <body>
+    <header class="header">
+      <nav class="header__nav main-nav">
+        <ul class="main-nav__list main-list">
+          <li class="main-list__item list-item">
+            <a class="list-item__link" href="/">ВЕРНУТЬСЯ НАЗАД</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+    <section class="main__home home" id="home">
+    <h1 class="home__title">ПРИЧИНЫ ГЛОБАЛЬНОГО ПОТЕПЛЕНИЯ</h1>
+    <p class="home__subtitle">ОСНОВНЫЕ ПРИЧИНЫ КОТОРЫЕ ПРИВЕЛИ ПЛАНЕТУ К ПРИРОДНОЙ КАТАСТРОФЕ</p>
+    <img
+      class="info-block__img"
+      src="../static/img/SeachIcon.png"
+      alt="me"
+      width="350"
+      height="350"
+    />
+    </section>
+
+    <section class="main__about about" id="about">
+        <h2 class="about__title">ВЫБРОСЫ ПАРНИКОВЫХ ГАЗОВ</h2>
+        <div class="about__info info-block">
+          <p class="info-block__text">
+            Одной из основных причин глобального потепления является увеличение концентрации парниковых газов в атмосфере, таких как углекислый газ (CO2), метан (CH4) и оксид азота (NOx). Эти газы удерживают тепло в атмосфере, создавая эффект парникового газа и приводя к повышению температуры на поверхности Земли.</p>
+          <img
+            class="info-block__img"
+            src="../static/img/CarbonIcon.png"
+            alt="me"
+            width="250"
+            height="250"
+          />
+        </div>
+      </section>
+
+      <section class="main__about about" id="about">
+        <h2 class="about__title">ИСПОЛЬЗОВАНИЕ ИСКОПАЕМЫХ ТОПЛИВ</h2>
+        <div class="about__info info-block">
+          <p class="info-block__text">
+            Сгорание углеводородных ископаемых топлив, таких как уголь, нефть и природный газ, для производства энергии и транспорта является важным источником выбросов углекислого газа. Этот процесс усиливает парниковый эффект и способствует глобальному потеплению.</p>
+          <img
+            class="info-block__img"
+            src="../static/img/FuelIcon.png"
+            alt="me"
+            width="250"
+            height="250"
+          />
+        </div>
+      </section>
+
+      <section class="main__about about" id="about">
+        <h2 class="about__title">ВЫРУБКА ЛЕСОВ</h2>
+        <div class="about__info info-block">
+          <p class="info-block__text">
+            Леса играют ключевую роль в поглощении CO2 из атмосферы. Однако массовая вырубка лесов для сельского хозяйства, древесины и других целей снижает способность природы абсорбировать углекислый газ, что усиливает проблему глобального потепления.</p>
+          <img
+            class="info-block__img"
+            src="../static/img/ForestIcon.png"
+            alt="me"
+            width="250"
+            height="250"
+          />
+        </div>
+      </section>
+    </main>
+    </body>
+</html>
